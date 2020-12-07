@@ -1,0 +1,10 @@
+^.*\.Rproj$ # Automatically added by RStudio,
+^\.Rproj\.user$
+
+# Github stuffs
+.gitignore
+README.md
+.Rhistory
+
+
+
