@@ -3,6 +3,4 @@
 # View(sdot)
 # OR SDOT
 
-sdot<-load("sdot.rda")
-
-##########3
+sdot.rda
