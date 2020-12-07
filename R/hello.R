@@ -3,6 +3,7 @@
 # View(sdot)
 # OR SDOT
 
-x <- RCurl::getURL("https://github.com/seoul-iotdata/SDOT/blob/main/R/sdot.rda")
-writeLines(x, tmp <- tempfile())
-sdot <- load(tmp)
+load(file = "sdot.rda")
+
+
+############
