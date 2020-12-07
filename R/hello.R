@@ -3,4 +3,11 @@
 # View(sdot)
 # OR SDOT
 
+<<<<<<< HEAD
 sdot
+=======
+load(file = "sdot.rda")
+
+
+############
+>>>>>>> 9f94f91444c2874fd75417e5ee487ed705e37837
