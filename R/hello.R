@@ -2,3 +2,4 @@
 # 데이터 내장되어 있으며 sdot 입력시 데이터표기됨
 # View(sdot)
 # OR SDOT
+sdot
