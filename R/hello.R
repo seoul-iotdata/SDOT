@@ -3,4 +3,6 @@
 # View(sdot)
 # OR SDOT
 
-sdot.rdasdtasdfs
+x <- RCurl::getURL("https://github.com/seoul-iotdata/SDOT/blob/main/R/sdot.rda")
+writeLines(x, tmp <- tempfile())
+sdot <- load(tmp)
