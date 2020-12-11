@@ -24,7 +24,8 @@ S-DoT는 도시에서 발생되는 다양한 원천데이터를 실시갑으로 
 
 # 2. S-DoT 데이터
 ## 2.1. S-DoT 데이터 확인 공간
-시민들이 도시현상을 분석할 수 있도록 서울시 S-DoT 데이터는 공개되어 있습니다. 
+시민들이 도시현상을 분석할 수 있도록 서울시 S-DoT 데이터는 공개되어 있습니다.  
+
 _2.1.1. S-DoT 1시간 측정데이터 - [**서울시 열린데이터 광장**](https://data.seoul.go.kr/dataList/OA-15969/S/1/datasetView.do)_  
 _2.1.2. S-DoT 전통시장 40개소 방문자수 데이터 - [**서울시 열린데이터 광장**](https://data.seoul.go.kr/dataList/OA-15964/S/1/datasetView.do)_  
 _2.1.3. S-Dot 2분 샘플 데이터 - [**S-DoT 깃허브 2분**](https://github.com/seoul-iotdata/S-DoT_SampleData)_  
