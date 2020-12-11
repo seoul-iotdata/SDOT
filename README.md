@@ -23,12 +23,12 @@ S-DoT는 도시에서 발생되는 다양한 원천데이터를 실시갑으로 
 
 
 # 2. S-DoT 데이터
-## 2.1. S-DoT 데이터 확인 공간
+## 2.1. S-DoT 데이터 제공 공간
 시민들이 도시현상을 분석할 수 있도록 서울시 S-DoT 데이터는 공개되어 있습니다.  
 
 _2.1.1. S-DoT 1시간 측정데이터 - [**서울시 열린데이터 광장**](https://data.seoul.go.kr/dataList/OA-15969/S/1/datasetView.do)_  
 _2.1.2. S-DoT 전통시장 40개소 방문자수 데이터 - [**서울시 열린데이터 광장**](https://data.seoul.go.kr/dataList/OA-15964/S/1/datasetView.do)_  
-_2.1.3. S-Dot 2분 샘플 데이터 - [**S-DoT 깃허브 2분**](https://github.com/seoul-iotdata/S-DoT_SampleData)_  
+_2.1.3. S-Dot 2분 샘플 데이터 및 데이터 속성 - [**S-DoT 깃허브 2분**](https://github.com/seoul-iotdata/S-DoT_SampleData)_  
 _2.1.4. S-DoT 1일 데이터 - [**S-DoT 데이터 패키지**](https://github.com/seoul-iotdata/SDOT)_  
 _2.1.5. S-DoT 분석 및 지도 샘플 - [**S-DoT 분석예시**](https://github.com/seoul-iotdata/S-DoT_Data_Analysis_Basic)_  
 
@@ -42,3 +42,11 @@ _2.1.5. S-DoT 분석 및 지도 샘플 - [**S-DoT 분석예시**](https://github
 * 연락처 : 김일홍(02-2133-2932)
 * 이메일링크: <realminet@citizen.seoul.kr>
 ```
+
+# 3. S-DoT 데이터 제공 공간 설명
+## 3.1 S-DoT 1시간 측정데이터
+열린데이터 광장을 통해 제공되는 1시간 측정데이터는 2020년 4월 1일데이터부터 제공되며 다음 내용의 기준을 따릅니다.
+
+	1. 데이터 기간 : 2020년 4월 1일부터 ~ 조회일 기준 전주 데이터 
+	2. 데이터 제공 구분 : 전체데이터 셋에서 구분 1은 1시간 평균, 구분 2는 1시간 최대값, 구분 3는 3시간 최소값 
+
